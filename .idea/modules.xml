@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoPostSMS/AutoPostSMS.iml" filepath="$PROJECT_DIR$/AutoPostSMS/AutoPostSMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lua test/lua test.iml" filepath="$PROJECT_DIR$/lua test/lua test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/position.iml" filepath="$PROJECT_DIR$/position.iml" />
+    </modules>
+  </component>
+</project>
